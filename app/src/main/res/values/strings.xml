@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Khabar</string>
+    <string name="this_is_sample_text">This is Sample text</string>
+    <string name="todo">TODO</string>
+</resources>
